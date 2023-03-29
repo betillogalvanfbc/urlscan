@@ -4,5 +4,5 @@
 go install -v https://github.com/betillogalvanfbc/urlscan@latest
 
 # How to use 
-./main -url google.com -key '' 
+urlscan -url google.com -key '' 
 
